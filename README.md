@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehran</h1>
-<h3 align="center">An Mobile Developer with :heart:</h3>
+<h3 align="center">A Mobile Developer with :heart:</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
